@@ -1,6 +1,6 @@
 rm(list = ls())
 
-setwd("~/Desktop/PhD/Second year/Second year paper/")
+#setwd("~/.../")
 
 library(stargazer)
 library(dummies)
